@@ -4,7 +4,7 @@ ProjectDataCleaning
 ## Code:
 
 Subject: subject number
-Activity; activity performed
+Activity: activity performed
 m: mean
 std: standard deviation
 t: time domain
