@@ -1,0 +1,82 @@
+ProjectDataCleaning
+===================
+
+Code:
+
+Subject: subject number
+Activity; activity performed
+*m*: mean
+*std*: standard deviation
+t*: time domain
+f*: frequency domain
+
+Variable names:
+
+1 Subject
+2 Activity
+3 tBodyAcc.m.X
+4 tBodyAcc.m.Y
+5 tBodyAcc.m.Z
+6 tGravityAcc.m.X
+7 tGravityAcc.m.Y
+8 tGravityAcc.m.Z
+9 tBodyAccJerk.m.X
+10 tBodyAccJerk.m.Y
+11 tBodyAccJerk.m.Z
+12 tBodyGyro.m.X
+13 tBodyGyro.m.Y
+14 tBodyGyro.m.Z
+15 tBodyGyroJerk.m.X
+16 tBodyGyroJerk.m.Y
+17 tBodyGyroJerk.m.Z
+18 tBodyAccMag.m
+19 tGravityAccMag.m
+20 tBodyAccJerkMag.m
+21 tBodyGyroMag.m
+22 tBodyGyroJerkMag.m
+23 fBodyAcc.m.X
+24 fBodyAcc.m.Y
+25 fBodyAcc.m.Z
+26 fBodyAccJerk.m.X
+27 fBodyAccJerk.m.Y
+28 fBodyAccJerk.m.Z
+29 fBodyGyro.m.X
+30 fBodyGyro.m.Y
+31 fBodyGyro.m.Z
+32 fBodyAccMag.m
+33 fBodyBodyAccJerkMag.m
+34 fBodyBodyGyroMag.m
+35 fBodyBodyGyroJerkMag.m
+36 tBodyAcc.std.X
+37 tBodyAcc.std.Y
+38 tBodyAcc.std.Z
+39 tGravityAcc.std.X
+40 tGravityAcc.std.Y
+41 tGravityAcc.std.Z
+42 tBodyAccJerk.std.X
+43 tBodyAccJerk.std.Y
+44 tBodyAccJerk.std.Z
+45 tBodyGyro.std.X
+46 tBodyGyro.std.Y
+47 tBodyGyro.std.Z
+48 tBodyGyroJerk.std.X
+49 tBodyGyroJerk.std.Y
+50 tBodyGyroJerk.std.Z
+51 tBodyAccMag.std
+52 tGravityAccMag.std
+53 tBodyAccJerkMag.std
+54 tBodyGyroMag.std
+55 tBodyGyroJerkMag.std
+56 fBodyAcc.std.X
+57 fBodyAcc.std.Y
+58 fBodyAcc.std.Z
+59 fBodyAccJerk.std.X
+60 fBodyAccJerk.std.Y
+61 fBodyAccJerk.std.Z
+62 fBodyGyro.std.X
+63 fBodyGyro.std.Y
+64 fBodyGyro.std.Z
+65 fBodyAccMag.std
+66 fBodyBodyAccJerkMag.std
+67 fBodyBodyGyroMag.std
+68 fBodyBodyGyroJerkMag.std
