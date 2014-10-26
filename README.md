@@ -10,12 +10,19 @@ Project for the data cleaning class
 2) copy the follwing files into the R working directory:
 
 activity_labels.txt
+
 features.txt
+
 subject_test.txt
+
 subject_train.txt
+
 X_test.txt
+
 X_train.txt
+
 y_test.txt
+
 y_train.txt
 
 3) run the script run_analysis.R
