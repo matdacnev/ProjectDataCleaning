@@ -1,16 +1,16 @@
 ProjectDataCleaning
 ===================
 
-## Code:
+Code:
 
 Subject: subject number
 Activity; activity performed
-m: mean
-std: standard deviation
-t: time domain
-f: frequency domain
+*m*: mean
+*std*: standard deviation
+t*: time domain
+f*: frequency domain
 
-## Variable names:
+Variable names:
 
 1 Subject
 2 Activity
