@@ -9,11 +9,15 @@ Activity: activity performed
 
 m: mean
 
-std: standard) deviation
+std: standard deviation
 
-t: time) domain
+t: time domain
 
 f: frequency domain
+
+Acc: The acceleration signal from the smartphone accelerometer in standard gravity units 'g'
+
+Gyro: The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
 
 ## Variable names:
