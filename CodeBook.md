@@ -1,7 +1,7 @@
 ProjectDataCleaning
 ===================
 
-##) Code:
+## Code:
 
 Subject: subject number
 
@@ -16,7 +16,7 @@ t: time) domain
 f: frequency domain
 
 
-##) Variable) names:
+## Variable names:
 
 1) Subject
 
